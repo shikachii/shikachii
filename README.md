@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikachii&layout=compact&theme=onedark" />
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shikachii&theme=onedark&show_icons=true" />
+</p>
 <!--
 **shikachii/shikachii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
